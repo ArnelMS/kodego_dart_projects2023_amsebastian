@@ -1,3 +1,6 @@
+//this is a comment
+/// hello
 void main (){
-  print("Hello World");
+  print("Hello");
+  print("World");
 }
